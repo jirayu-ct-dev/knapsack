@@ -15,3 +15,14 @@ export interface ResultGreedyFractional {
         fraction: number
     }>
 }
+
+// 0/1 Knapsack Dynamic Programming Types
+export interface ResultKnapsackDP {
+    maxValue: number
+    selectedItems: Array<{
+        index: number
+        value: number
+        weight: number
+    }>
+    dpTable: number[][] // ตาราง DP สำหรับแสดงขั้นตอน
+}
