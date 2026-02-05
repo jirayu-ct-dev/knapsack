@@ -4,7 +4,7 @@
 
 ## 🌐 Demo
 
-👉 **[ลองเล่นได้ที่นี่](https://knapsack-roan.vercel.app)**
+👉 **[ลองเล่นได้ที่นี่](https://knapsack-roan.vercel.app)** https://knapsack-roan.vercel.app
 
 ## 📚 รายละเอียดโปรเจค
 
